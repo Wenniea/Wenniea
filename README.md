@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wenniea
 - 👀 I’m interested in java, python, web development, mobile app development, AI, graphic deign, UI/UX
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning AWS
 
 <!---
 Wenniea/Wenniea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
